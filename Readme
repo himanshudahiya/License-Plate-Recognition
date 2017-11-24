@@ -1,0 +1,55 @@
+README |
+--------
+
+CSL461 PROJECT
+
+LICENSE PLATE RECOGNITION
+===============================================================================================================
+
+HIMANSHU DAHIYA
+2015CSB1013
+
+SOUMYADEEP ROY
+2015CSB1035
+
+===============================================================================================================
+
+FILES CONTAINED : 
+
+1. License_Plate_Detector.m (main file)
+2. Remove_Noise.m
+3. Hist_Equal.m
+4. Horizontal_Edges.m
+5. Vertical_Edges.m
+6. Extract_Plate.m
+7. Reading_Plate.m
+8. Spliting.m
+
+IMAGES : 
+
+1. 1.jpg
+2. 2.jpg
+3. 3.jpg
+4. 4.jpg
+5. 5.jpg
+6. 6.jpg
+7. 7.jpg
+
+OTHERS :
+
+1. DataBase.mat
+2. License Number Plate recognition.pdf
+3. Readme
+
+==============================================================================================================
+
+HOW TO RUN :
+
+1. Run the script 'License_Plate_Detector.m' in matlab
+
+==============================================================================================================
+
+OVERVIEW :
+
+The code takes some time to run all the images and provide the respective output. Two OPTICAL CHARACTER
+RECOGNITION processes are used to get the license number. Both the result is displayed for all the number plates.
